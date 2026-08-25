@@ -1,12 +1,12 @@
-# COVID-19-World-Data-Analysis
+# COVID-19 World Data Analysis
 
 A data analysis project that explores global COVID-19 data using Python and popular data science libraries.
 
-## 📌 Overview
+## Overview
 
-This project performs Exploratory Data Analysis (EDA) on COVID-19 data to analyze confirmed cases, deaths, and recoveries across different countries and over time.
+This project performs Exploratory Data Analysis (EDA) on COVID-19 data to analyze confirmed cases, deaths, and recoveries across different countries and over time. It uncovers trends, patterns, and country-wise insights from the global pandemic dataset.
 
-## 🎯 Key Analysis
+## Key Analysis
 
 * Data cleaning and preprocessing
 * Missing value and duplicate analysis
@@ -17,7 +17,7 @@ This project performs Exploratory Data Analysis (EDA) on COVID-19 data to analyz
 * Data visualization
 * Correlation analysis
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * Pandas
@@ -26,47 +26,47 @@ This project performs Exploratory Data Analysis (EDA) on COVID-19 data to analyz
 * Seaborn
 * Kaggle Notebook
 
-## 📊 Dataset
+## Dataset
 
-**COVID-19 Dataset — Devakumar K. P.**
+**COVID-19 Dataset** — Devakumar K. P.
 
 Dataset file used:
-
-```text
+```
 covid_19_clean_complete.csv
 ```
 
-> The dataset is not included in this repository because the project was developed using Kaggle's dataset environment.
+> **Note:** The dataset is not included in this repository, as the project was developed using Kaggle's dataset environment.
 
-## 🚀 How to Run
+## How to Run
 
-```bash
+1. Install the required dependencies:
+```
 pip install pandas numpy matplotlib seaborn jupyter
 ```
 
-Download the dataset, update the dataset path if necessary, and run:
+2. Download the dataset and update the dataset path in the notebook if necessary.
 
-```bash
+3. Launch Jupyter Notebook:
+```
 jupyter notebook
 ```
 
-Then open:
-
-```text
+4. Open and run:
+```
 covid-19-world-data-analysis.ipynb
 ```
 
-## 📁 Project Structure
+## Project Structure
 
-```text
+```
 COVID-19-World-Data-Analysis/
 ├── covid-19-world-data-analysis.ipynb
 ├── README.md
+├── requirements.txt
 └── .gitignore
 ```
 
-## 👨‍💻 Author
+## Author
 
 **Muhammad Zeeshan**
 Computer Engineering Student | AI & Machine Learning
-
